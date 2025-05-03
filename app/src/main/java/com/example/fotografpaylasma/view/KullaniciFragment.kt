@@ -1,4 +1,4 @@
-package com.example.fotografpaylasma
+package com.example.fotografpaylasma.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.navigation.Navigation
-import androidx.navigation.Navigator
 import com.example.fotografpaylasma.databinding.FragmentKullaniciBinding
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
